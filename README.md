@@ -1,4 +1,9 @@
 # Aspiring Health Informatics Student
+## About Me
+Greetings,  
+I am an aspiring Health Informatics student who is looking forward to working as a healthcare data analyst.  
+In addition to my experience working in a healthcare environment, I also have experience in research. My major is Biotechnology.
+I believe that my experience and knowledge in the field of healthcare, together with the technical skills that I learned in and out of school, will be a great asset for me to become a data analyst that helps improving patient outcomes by achieving business goals.
 
 ## Personal Projects
 ### [Analyze the effect of sleep on blood pressure](http://rpubs.com/dcdanh98/1277151)
