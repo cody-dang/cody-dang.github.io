@@ -15,6 +15,15 @@ I believe that my experience and knowledge in the field of healthcare, together 
 
 **Skill**: R (programming language), data analysis, data visualization.
 
+### [The effect of age, BMI and some other factors on blood pressure](https://rpubs.com/dcdanh98/1279332)
+**Scenario**: Imagine yourself as an analyst of a pharmaceutical company that just developed a new medicine for patients with high blood pressure. The company now wants to know how to maximize the sales by advertising the new medication to those who are susceptible to it.
+
+**Goal**: Find the group of people that has higher risk of having high blood pressure.
+
+**About the dataset**: This dataset was collected by Yongbo Liang et al. (2018). This dataset contains information of 219 patients in China, together with 13 variables. The dataset covers an age range of 20-89 years and records of diseases including hypertension and diabetes. 
+
+**Skill**: R (programming language), data analysis, data visualization.
+
 ## Education
 Health Informatics (Graduate Certificate) @ George Brown College, Canada (Sep 2024 - Expected August 2025)
 
