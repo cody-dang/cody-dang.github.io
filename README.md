@@ -24,6 +24,13 @@ I believe that my experience and knowledge in the field of healthcare, together 
 
 **Skill**: R (programming language), data analysis, data visualization.
 
+### [Using Machine Learning Models on Alzheimer Dataset](https://rpubs.com/dcdanh98/1284185)
+**Goal**: Find the model that gives the best prediction for the dataset. The prediction rate was calculated by the proportion of correct classification. The dataset was splitted into training and testing set (80:20 split, cross validation and bootstrap).
+
+**About the dataset**: This dataset was created by Rabie El Kharoua (2024), and published on [Kaggle](https://www.kaggle.com/dsv/8668279). This dataset contains 2149 observations and 35 variables, including the diagnosis of Alzheimer.
+
+**Skill**: R (programming language), machine learning, logistic, LDA, QDA, KNN, cross validation, bootstrap.
+
 ## Education
 Health Informatics (Graduate Certificate) @ George Brown College, Canada (Sep 2024 - Expected August 2025)
 
