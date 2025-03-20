@@ -6,14 +6,14 @@ In addition to my experience working in a healthcare environment, I also have ex
 I believe that my experience and knowledge in the field of healthcare, together with the technical skills that I learned in and out of school, will be a great asset for me to become a data analyst that helps improving patient outcomes by achieving business goals.
 
 ## Personal Projects
-### [Analyze the effect of sleep on blood pressure](http://rpubs.com/dcdanh98/1277151)
+### Analyze the effect of sleep on blood pressure - [R](http://rpubs.com/dcdanh98/1277151) | [Python](portfolio/jupyter-notebook/kaggle-sleep_health.ipynb)
 **Goal**: To discover the effect of sleep and other factors on blood pressure. 
 
 **Description**: Sleep is a process that allows your body to rest, repair and restore itself. On average, depends on a person’s constitution, we need from six to eight hours of sleep everyday. More or less than that will usually come with negative effects on the body. during this project, we will learn more about the effect of sleep (and some other factors) on blood pressure.
 
 **About the dataset**: This is a simulated dataset. This dataset does not come from a real life scenario, and can only be used for education purpose.
 
-**Skill**: R (programming language), data analysis, data visualization.
+**Skill**: R (programming language), Python, numpy, pandas, matplotlib, data analysis, data visualization.
 
 ### [The effect of age, BMI and some other factors on blood pressure](https://rpubs.com/dcdanh98/1279332)
 **Scenario**: Imagine yourself as an analyst of a pharmaceutical company that just developed a new medicine for patients with high blood pressure. The company now wants to know how to maximize the sales by advertising the new medication to those who are susceptible to it.
