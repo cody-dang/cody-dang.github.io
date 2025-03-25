@@ -13,16 +13,16 @@ I believe that my experience and knowledge in the field of healthcare, together 
 
 **About the dataset**: This is a simulated dataset. This dataset does not come from a real life scenario, and can only be used for education purpose.
 
-**Skill**: R (programming language), Python, numpy, pandas, matplotlib, data analysis, data visualization.
+**Skill**: R (programming language), Python (numpy, pandas, matplotlib), data analysis, data visualization.
 
-### [The effect of age, BMI and some other factors on blood pressure](https://rpubs.com/dcdanh98/1279332)
+### The effect of age, BMI and some other factors on blood pressure - [R](https://rpubs.com/dcdanh98/1279332) | [Python](portfolio/jupyter-notebook/md_cn_blood-pressure/cn_blood-pressure.md)
 **Scenario**: Imagine yourself as an analyst of a pharmaceutical company that just developed a new medicine for patients with high blood pressure. The company now wants to know how to maximize the sales by advertising the new medication to those who are susceptible to it.
 
 **Goal**: Find the group of people that has higher risk of having high blood pressure.
 
 **About the dataset**: This dataset was collected by Yongbo Liang et al. (2018). This dataset contains information of 219 patients in China, together with 13 variables. The dataset covers an age range of 20-89 years and records of diseases including hypertension and diabetes. 
 
-**Skill**: R (programming language), data analysis, data visualization.
+**Skill**: R (programming language), Python (numpy, pandas, seaborn), data analysis, data visualization.
 
 ### [Using Machine Learning Models on Alzheimer Dataset](https://rpubs.com/dcdanh98/1284185)
 **Goal**: Find the model that gives the best prediction for the dataset. The prediction rate was calculated by the proportion of correct classification. The dataset was splitted into training and testing set (80:20 split, cross validation and bootstrap).
