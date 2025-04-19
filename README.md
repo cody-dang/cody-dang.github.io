@@ -6,6 +6,13 @@ In addition to my experience working in a healthcare environment, I also have ex
 I believe that my experience and knowledge in the field of healthcare, together with the technical skills that I learned in and out of school, will be a great asset for me to become a data analyst that helps improving patient outcomes by achieving business goals.
 
 ## Personal Projects
+### [Heart Disease Prediction](portfolio/jupyter-notebook/heart_disease/heart_disease.md)
+**Goal**: To predict patients with heart disease using KNN and logistic model.
+
+**About the dataset**: This dataset was collected, published and used by machine learning researchers.
+
+**Skill**: Python (pandas, matplotlib, seaborn), data analysis, data visualization, machine learning, KNN, logistic.
+
 ### Analyze the effect of sleep on blood pressure - [R](http://rpubs.com/dcdanh98/1277151) | [Python](portfolio/jupyter-notebook/md-kaggle-sleep_health/kaggle-sleep_health.md)
 **Goal**: To discover the effect of sleep and other factors on blood pressure. 
 
